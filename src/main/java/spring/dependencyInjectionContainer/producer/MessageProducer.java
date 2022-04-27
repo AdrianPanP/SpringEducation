@@ -1,4 +1,4 @@
-package spring.dependencyInjectionContainer;
+package spring.dependencyInjectionContainer.producer;
 
 public interface MessageProducer {
 String getMessage();
